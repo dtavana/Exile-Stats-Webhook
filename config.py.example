@@ -1,0 +1,13 @@
+#Example Webhook: https://discordapp.com/api/webhooks/614593713292705834/nFlJS5jGQdt2uCWUFpmjb_p_AYoUwcf2XjK6qUwCNk9EdnVPu6lvfAMGhQgkmnxXTOTf
+#In this webhook, the ID is 614593713292705834 and the token is nFlJS5jGQdt2uCWUFpmjb_p_AYoUwcf2XjK6qUwCNk9EdnVPu6lvfAMGhQgkmnxXTOTf
+
+#Webhook
+WEBHOOK_ID = "614593713292705834"
+WEBHOOK_TOKEN = "nFlJS5jGQdt2uCWUFpmjb_p_AYoUwcf2XjK6qUwCNk9EdnVPu6lvfAMGhQgkmnxXTOTf"
+
+#DZ DB
+dzhost = "127.0.0.1"
+dzport = 3306
+dzuser = "root"
+dzpass = "password"
+dzschema = "exile"
